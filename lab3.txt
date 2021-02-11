@@ -1,0 +1,3 @@
+what needs to be done for tags to show up in remotes?
+
+git push --tags
